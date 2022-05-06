@@ -13,6 +13,7 @@ public class MainApplication {
 
         SpringApplication.run(MainApplication.class, args);
         System.out.println("three");
+        System.out.println("hot-fix");
 
     }
 }
