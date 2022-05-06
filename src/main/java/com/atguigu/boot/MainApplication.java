@@ -18,5 +18,6 @@ public class MainApplication {
         System.out.println("hot-fix2");
         System.out.println("push test");
         System.out.println("pull test2");
+        System.out.println("要pull");
     }
 }
