@@ -17,5 +17,6 @@ public class MainApplication {
         System.out.println("master1");
         System.out.println("hot-fix2");
         System.out.println("push test");
+        System.out.println("要pull");
     }
 }
